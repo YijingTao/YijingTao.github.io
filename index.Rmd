@@ -1,23 +1,18 @@
 ---
-title: "My awesome website"
-output: 
+title: "Yijing Tao's personal website"
+output:
   html_document:
     toc: true
     toc_float: true
 ---
+# A brief introduction of myself
 
-# This is Jeff's awesome website
+A student in the Columbia University, majoring in Biostatistics. <img src="photo.jpg" width="150" height="150" /> 
+<p> Check my resume below. 
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+* [Yijing Tao's Resume](resume.html)
 
-I can link to useful things like [google](https://www.google.com/) and [p8105](https://www.p8105.com)
-
-
-I can make an extra page on my site and link to that. Here's my [about](about.html) page.
+# Dashboard of NY NOAA
+* [Dashboard](dashboard.html)
 
 
-## Here's Ted
-
-My cat's name is Ted. He likes to be on the internet. Here he is:
-
-<img src="images/ted.jpg" style="width:75%">

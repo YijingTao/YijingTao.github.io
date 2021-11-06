@@ -10,8 +10,8 @@ navbar:
       href: resume.html
     - text: "Dashboard"
       href: dashboard.html
-    - icon: fab fa-linkedin-in
-      href: linkedin.com/in/yijing-tao-1a385220b
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/yijing-tao-1a385220b/
     - icon: fa-envelope fa-lg
       href: mailto:<yt2785@cumc.columbia.edu>
     - icon: fa-github fa-lg
